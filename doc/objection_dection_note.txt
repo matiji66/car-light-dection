@@ -1,0 +1,37 @@
+目标检测（Object Detection）资料汇总
+Object Detection - handong1587（非常全，而且实时更新）
+https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+
+GitHub - caocuong0306/awesome-object-proposals: A curated list of object proposals resources for object detection
+https://github.com/caocuong0306/awesome-object-proposals
+
+Object Detection系列笔记
+http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649676492&idx=2&sn=87244c72956b854346665fdd1afb5ea4&chksm=87f673d0b081fac6935b9bc1a5b377817e1e2fa35ce4eb91eb57787f9b05b09daf0d1adf8c34&scene=0#rd
+
+使用multi-label训练CNN能否达到detection的效果？ - 知乎
+https://www.zhihu.com/question/52143412/answer/130037578
+
+人脸检测(目标检测) - shuzfan的专栏 - 博客频道 - CSDN.NET
+http://blog.csdn.net/shuzfan/article/category/6429450
+
+【资源】深度学习 Top100：近 5 年被引用次数最高论文（下载）
+http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651993500&idx=2&sn=50deefc980e29cbab30419ee557b06a7&chksm=f121416dc656c87b8e4b10f543d81fa3c33f5740c12acf4b2c8d492108b245cd2fde844d8f4c&scene=0#rd
+
+基准评测 TensorFlow、Caffe、CNTK、MXNet、Torch 在三类流行深度神经网络上的表现（论文）
+http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651992752&idx=2&sn=03c5374dee6bc593ec0a4a8f87627fd0&chksm=f1214641c656cf57886b0dcb6ded6cfac15cea6e874d6b9a8c9742e03baf73d9489c66ed1ab0&mpshare=1&scene=2&srcid=0128bliZbVIQMgPU8dUKx3sZ&from=timeline#rd
+
+用深度学习识别红绿灯，介绍作者如何在10周内学习深度学习，并赢得了5000美元奖金
+http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677139&idx=1&sn=942d3e54ad2cbccb3b54128c12aa98c6&chksm=87f6744fb081fd590749f44639923f10bb0f87a9249b8a84c5defa04eb00bb22fb5a0c192b03&scene=0#rd
+
+基于深度学习的交通灯检测器，使用dlib和几个来自谷歌街景的图像
+http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677131&idx=3&sn=3fbde751754a9543550976b9df857a3f&chksm=87f67457b081fd41031802eea8c0915dea56afef3e1b6ba45ba4b0480dd7fa1d448489423b36&scene=0#rd
+
+TensorFlow交通标志识别
+http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649676917&idx=1&sn=81cc3585eb4f067494a4ff0eff358633&chksm=87f67569b081fc7f6ac45dbe1203291f616f5ef46beca2c75c6575c92a05550ee6f02e103f5c&scene=0#rd
+
+技术揭秘：海康威视PASCAL VOC2012目标检测权威评测夺冠之道
+http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325480&idx=1&sn=e39482fc9e83b89d6e72efc5ee689b92&chksm=f235a6e2c5422ff494d14137ba4a25a14900cc8ebc05e6f9a48cf6cb8dd9d3e95396c0b1da06&scene=0#rd
+
+
+TensorFlow Object Detection API视频物体识别系统实现教程
+http://blog.csdn.net/xiaoxiao123jun/article/details/76605928

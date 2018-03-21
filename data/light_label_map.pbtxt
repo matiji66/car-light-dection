@@ -1,0 +1,79 @@
+item {
+  id: 1
+  name: 'ESP_wendingkongzhi'
+}
+
+item {
+  id: 2
+  name: 'anquandai'
+}
+
+item {
+  id: 3
+  name: 'chemenweiguan'
+}
+
+item {
+  id: 4
+  name: 'dianchijingshi'
+}
+
+item {
+  id: 5
+  name: 'fadongji'
+}
+
+item {
+  id: 6
+  name: 'fadongjiguzhang'
+}
+
+item {
+  id: 7
+  name: 'jiyouyouweiguodi'
+}
+
+item {
+  id: 8
+  name: 'lengqueyegaowen'
+}
+
+item {
+  id: 9
+  name: 'linshitingche'
+}
+
+item {
+  id: 10
+  name: 'qianwudeng'
+}
+
+item {
+  id: 11
+  name: 'qingxiye'
+}
+
+item {
+  id: 12
+  name: 'ranyou'
+}
+
+item {
+  id: 13
+  name: 'ranyougai'
+}
+
+item {
+  id: 14
+  name: 'taiyadi'
+}
+
+item {
+  id: 15
+  name: 'tingchezhidongdeng'
+}
+
+item {
+  id: 16
+  name: 'none_of_the_above'
+}

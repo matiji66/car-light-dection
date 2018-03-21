@@ -104,7 +104,6 @@ object_detection_bak/*
 
 models/model/train
 models/model/eval
-models
 object_detection/
 ssd_mobilenet_v1_coco_2017_11_17.tar.gz
 ssd_mobilenet_v1_coco_2017_11_17/
